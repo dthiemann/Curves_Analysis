@@ -3,6 +3,9 @@ import os, math, sys, random, subprocess
 import commands
 import time
 
+#Author: Dylan Thiemann
+#Email: dylanthiemann@gmail.com
+
 #Get command line arguments
 if len(sys.argv) == 3:
 	analysisStartTime = sys.argv[1]
